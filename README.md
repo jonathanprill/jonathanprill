@@ -1,3 +1,3 @@
-### Hi there 👋
+📈 my github stats
 
-[![jonathanprill GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanprill )](https://github.com/jonathanprill /github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jonathanprill&show_icons=true&theme=gotham" alt="jonathanprill" />
