@@ -2,11 +2,14 @@
     <a href="https://www.linkedin.com/in/jonathan-prill-49423672/"><img alt="Linkedin: Jonathan Prill" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
 </p>
 
+<br />
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jonathanprill&show_icons=true&theme=gotham" alt="jonathanprill" />
 
 <br />
 
 <h2 align="center">Languages and Tools</h2>
+<br />
 <p align="center">
     <img src="https://img.shields.io/badge/npm-orange" />
     <img src="https://img.shields.io/badge/Javascript-yellow" />
