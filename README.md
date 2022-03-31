@@ -33,3 +33,24 @@
 <a target="_blank" href="https://jonathanprill.github.io/personal-portfolio/">
 <p align="center"> <img src="./assets/images/portfolio-Animation2.gif" width="500" />
 </a>
+
+<br />
+<br />
+
+<a target="_blank" href="https://jowstafford.github.io/ChessMaster/">
+<p align="center"> <img src="./assets/images/chess-Animation.gif" width="500" />
+</a>
+
+<br />
+<br />
+
+<a target="_blank" href="https://jonathanprill.github.io/weather-dashboard/">
+<p align="center"> <img src="./assets/images/weather-Animation.gif" width="500" />
+</a>
+
+<br />
+<br />
+
+<a target="_blank" href="https://rocky-savannah-08577.herokuapp.com/">
+<p align="center"> <img src="./assets/images/notes-Animation.gif" width="500" />
+</a>
