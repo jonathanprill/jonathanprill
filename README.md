@@ -21,7 +21,7 @@
 
 <br />
 
-<h2 align="center">Work</h2>
+<h2 align="center">Featured Projects</h2>
 
 <a target="_blank" href="https://nameless-sands-05757.herokuapp.com/">
 <p align="center"> <img src="./assets/images/hacker-forum-Animation2.gif" width="500" />
@@ -37,11 +37,11 @@
 <br />
 <br />
 
-<a target="_blank" href="https://jowstafford.github.io/ChessMaster/">
+<!-- <a target="_blank" href="https://jowstafford.github.io/ChessMaster/">
 <p align="center"> <img src="./assets/images/chess-Animation.gif" width="500" />
-</a>
+</a> -->
 
-<br />
+<!-- <br />
 <br />
 
 <a target="_blank" href="https://jonathanprill.github.io/weather-dashboard/">
@@ -53,4 +53,4 @@
 
 <a target="_blank" href="https://rocky-savannah-08577.herokuapp.com/">
 <p align="center"> <img src="./assets/images/notes-Animation.gif" width="500" />
-</a>
+</a> -->
