@@ -20,7 +20,6 @@
 </p>
 
 <br />
-<br />
 
 <h2 align="center">Work</h2>
 
