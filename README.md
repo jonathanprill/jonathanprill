@@ -6,6 +6,12 @@
 <!-- 
 ![ScreenShot](/assets/images/hacker-forum-Animation2.gif "screenshot1") -->
 
- <a target="_blank" href="https://nameless-sands-05757.herokuapp.com/" class="fa fa-linkedin">
+<a target="_blank" href="https://nameless-sands-05757.herokuapp.com/">
 <img src="./assets/images/hacker-forum-Animation2.gif" width="500" />
+</a>
+
+<br />
+
+<a target="_blank" href="https://jonathanprill.github.io/personal-portfolio/">
+<img src="./assets/images/portfolio-Animation2.gif" width="500" />
 </a>
