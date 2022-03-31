@@ -11,12 +11,14 @@
 <h2 align="center">Languages and Tools</h2>
 <br />
 <p align="center">
-    <img src="https://img.shields.io/badge/npm-orange" />
+    <img src="https://img.shields.io/badge/HTML5-orange" />
+    <img src="https://img.shields.io/badge/-CSS-blue" >
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/Bootstrap-purple"  />
     <img src="https://img.shields.io/badge/-sequelize-blue" >
-    <img src="https://img.shields.io/badge/Javascript-yellow" />
     <img src="https://img.shields.io/badge/-heroku-purple" />
     <img src="https://img.shields.io/badge/jQuery-blue"  />
+    <img src="https://img.shields.io/badge/npm-orange" />
     <img src="https://img.shields.io/badge/-node.js-green" />
     <img src="https://img.shields.io/badge/-inquirer-red" >
     <img src="https://img.shields.io/badge/mySQL-blue"  />
