@@ -11,6 +11,7 @@
 </a>
 
 <br />
+<br />
 
 <a target="_blank" href="https://jonathanprill.github.io/personal-portfolio/">
 <img src="./assets/images/portfolio-Animation2.gif" width="500" />
