@@ -1,5 +1,5 @@
 <p align="center">
-    <a  target="_blank" href="https://www.linkedin.com/in/jonathan-prill-49423672/"><img alt="Linkedin: Jonathan Prill" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+    <a href="https://www.linkedin.com/in/jonathan-prill-49423672/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="50" width="60" /></a>
 </p>
 
 <br />
@@ -11,24 +11,29 @@
 <h2 align="center">Languages and Tools</h2>
 <br />
 <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-orange" />
-    <img src="https://img.shields.io/badge/-CSS-blue" >
-    <img src="https://img.shields.io/badge/Javascript-yellow" />
-    <img src="https://img.shields.io/badge/Bootstrap-purple"  />
-    <img src="https://img.shields.io/badge/-sequelize-blue" >
-    <img src="https://img.shields.io/badge/-heroku-purple" />
-    <img src="https://img.shields.io/badge/jQuery-blue"  />
-    <img src="https://img.shields.io/badge/npm-orange" />
-    <img src="https://img.shields.io/badge/-node.js-green" />
-    <img src="https://img.shields.io/badge/-inquirer-red" >
-    <img src="https://img.shields.io/badge/mySQL-blue"  />
-    <img src="https://img.shields.io/badge/-Insomnia-purple" />
-    <img src="https://img.shields.io/badge/Handlebars-orange"  />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" >
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"  />
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"  />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" >
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"  />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
 <br />
 
-<h2 align="center">Featured Projects</h2>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanprill" />
+</p>
+
+
+
+
+<!-- <h2 align="center">Featured Projects</h2>
 
 <a target="_blank" href="https://nameless-sands-05757.herokuapp.com/">
 <p align="center"> <img src="./assets/images/hacker-forum-Animation2.gif" width="500" />
@@ -42,7 +47,7 @@
 </a>
 
 <br />
-<br />
+<br /> -->
 
 <!-- <a target="_blank" href="https://jowstafford.github.io/ChessMaster/">
 <p align="center"> <img src="./assets/images/chess-Animation.gif" width="500" />
