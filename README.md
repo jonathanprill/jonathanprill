@@ -25,7 +25,7 @@
 <a href="mailto:jonathantprill@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="" height="50" width="60" /></a>
 </p>
 
-<h2 align="center">My Github Stats 📈👨🏻</h2>
+<h2 align="center">My Github Stats 📈</h2>
 
 <br>
 
