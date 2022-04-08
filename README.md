@@ -22,6 +22,7 @@
 
 <p align = "center">
 <a href="https://www.linkedin.com/in/jonathan-prill-49423672/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="50" width="60" /></a>
+<a href="mailto:jonathantprill@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="" height="50" width="60" /></a>
 </p>
 
 <h2 align="center">My Github Stats 📈👨🏻‍💻</h2>
