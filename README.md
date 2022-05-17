@@ -34,10 +34,10 @@
 
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=jonathanprill&show_icons=true&theme=radical&line_height=26">
+<!-- <p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=jonathanprill&show_icons=true&theme=radical&line_height=24">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanprill&hide=html,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
+</p> -->
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=jonathanprill&theme=redical">
