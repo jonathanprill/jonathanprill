@@ -43,6 +43,7 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=jonathanprill&theme=redical">
 </p> 
 
-<!-- <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanprill&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p>  -->
+<p align = "center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanprill&hide=stars,contribs&bg_color=30,00F0FF,7AE286&title_color=131313&text_color=131313" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanprill&layout=compact&hide=Handlebars&bg_color=30,7AE286,00F0FF&title_color=131313&text_color=131313" />
+</p> 
