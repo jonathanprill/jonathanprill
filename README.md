@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
-<h3 align="right">Currently Learning <img align="center" src="https://us-central1-progress-markdown.cloudfunctions.net/progress/50"/><img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></h3>
+<li>Currently Learning <img align="center" src="https://us-central1-progress-markdown.cloudfunctions.net/progress/50"/><img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></li>
 
 
 
