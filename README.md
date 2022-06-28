@@ -28,9 +28,12 @@
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
-<li>Currently Learning <img align="center" src="https://us-central1-progress-markdown.cloudfunctions.net/progress/50"/><img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></li>
+<h3>Currently Learning </h3>
 
-
+- Python 🟩🟩⬛⬛⬛
+- AWS    🟩⬛⬛⬛⬛
+- Java   🟩⬛⬛⬛⬛
+- C#     ⬛⬛⬛⬛
 
 
 <h2 align="center">My Github Stats 📈</h2>
